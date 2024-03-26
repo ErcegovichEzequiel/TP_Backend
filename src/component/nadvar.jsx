@@ -5,11 +5,11 @@ export const Nadvar = () => {
     return (
         <>
             <div className='nadvarPrincipal'>
-                <Link to={"/"}>Inicio</Link>
-                <Link to={"/pedidos"}>Pedidos</Link>
-                <Link to={"/cotizaciones"}>Cotizaciones</Link>
-            </div>
+                <Link className='link' to="/">Inicio</Link>
+                <Link className='link' to="./cotizaciones">Cotizaciones</Link>
+                <Link className='link' to="./pedidos">Pedidos</Link>
 
+            </div>
         </>
     )
 }

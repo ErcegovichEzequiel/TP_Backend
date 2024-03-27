@@ -1,0 +1,13 @@
+.inicio {
+    width: 100%;
+    height: auto;
+    padding: 10px;
+}
+
+.inicio .escudo {
+    margin-top: 65px;
+    margin-bottom: 70px;
+    width: 900px;
+    margin-left: 20%;
+    align-items: center;
+}

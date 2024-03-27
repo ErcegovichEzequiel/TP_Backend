@@ -5,7 +5,7 @@ export const Footer = () => {
   return (
     <div className='footer'>
         <p className='derechos'>
-            Derechos de autor @ Ezequiel Ercegovich
+            Derechos de autor &copy; <b>Ezequiel Ercegovich</b> - 2024
         </p>
     </div>
   )
